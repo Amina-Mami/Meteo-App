@@ -19,7 +19,7 @@ Le projet est divisé en deux parties :
 
 ### 1. Cloner le dépôt
 Clonez le dépôt Git :
-git clone https://github.com/USERNAME/WeatherApp.git
+git clone https://github.com/USERNAME/WeatherApp.git <br>
 cd WeatherApp
 
 ### 2. Allez dans le dossier weather-backend :
