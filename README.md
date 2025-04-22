@@ -23,11 +23,11 @@ git clone https://github.com/USERNAME/WeatherApp.git
 cd WeatherApp
 
 ### 2. Allez dans le dossier weather-backend :
-cd weather-backend
-composer install
-symfony server:start
+cd weather-backend <br>
+composer install <br>
+symfony server:start <br>
 
 ### 3. Allez dans le dossier weather-frontend :
-cd weather-frontend
-npm install
+cd weather-frontend <br>
+npm install <br>
 npm run dev
